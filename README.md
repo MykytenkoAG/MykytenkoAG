@@ -11,10 +11,14 @@
 - 🌱 I’m currently learning Java
 - 🔭 I’m currently working on on various educational projects
 
-### Connect with me:
+### 🤝 Connect with me:
 [<img align="left" alt="MykytenkoAG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/MykytenkoAG/badges/large)
 
 [linkedin]: https://www.linkedin.com/in/oleksandr-mykytenko-060681178/
 
