@@ -7,10 +7,6 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MykytenkoAG?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## I'm a student at Javarush University
-- 🌱 I’m currently learning Java
-- 🔭 I’m currently working on on various educational projects
-
 ### 🤝 Connect with me:
 [<img align="left" alt="MykytenkoAG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
